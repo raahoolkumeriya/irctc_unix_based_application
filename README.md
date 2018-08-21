@@ -21,7 +21,11 @@ SQL> desc IRCTC_LOGIN_DETAILS;
 ```
 
 And insert the your login details in table.
-
-### THIS CODE HAS LOT OF SCOPE FOR BIG IMPROVEMENT AT DATABASE SIDE.
+ 
+#### THIS CODE HAS LOT OF SCOPE FOR BIG IMPROVEMENT AT DATABASE SIDE ( as i uses .CSV files to store data on tempoary basis )
 
 Trigger script for ./www.irctc.co.in.sh 
+
+### Output :
+
+![evidence_5screen](https://user-images.githubusercontent.com/31859032/44415672-a4957f00-a58e-11e8-8cfe-1ef5cd27e451.jpg)
